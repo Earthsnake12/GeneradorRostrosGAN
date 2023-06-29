@@ -22,5 +22,5 @@ La idea es entrenar esos dos modelos simultáneamente buscando que al final sea 
 
 #### Modelo 2 (el 1 tenia un error por lo que se descarto)
 Se usaron imagenes de 32x32 y redes convolucionales. Se optuvo como resultado:
-![resultado](\resultados\resultadosGAN-2\r5000.png)
+![resultado](resultados/resultadosGAN-2/r5000.png)
 El modelo esta estancado no logra generar imagen alguna
